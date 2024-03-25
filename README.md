@@ -1,6 +1,10 @@
 ### hello everyone 
 
-i've received several emails in the last few weeks, so i wanted to make a note here that **i will not be updating any of my generative art repos**. please feel free to use the existing code however you like, but i won't be able to help with anything. i'm pursuing a career completely unrelated to tech, so i want to leave most of this coding stuff behind me. at least for a while. thank you!!! 
+i've received several emails in the last few weeks, so i wanted to make a note here that **i will not be updating any of my generative art repos**. 
+
+please feel free to use the existing code however you like, but i won't be able to help with anything. i'm pursuing a career completely unrelated to tech, so i want to leave most of this coding stuff behind me -- at least for a while. 
+
+thank you!!! 
 
 
 
