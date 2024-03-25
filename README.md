@@ -2,7 +2,7 @@
 
 i've received several emails in the last few weeks, so i wanted to make a note here that **i will not be updating any of my generative art repos**. 
 
-please feel free to use the existing code however you like, but unfortunately i won't be able to help with anything. i am pursuing a career completely unrelated to tech and i want to leave most of this coding stuff behind me, at least for a while. 
+please feel free to use the existing code however you like, but unfortunately i won't be able to help with anything. i am pursuing a career completely unrelated to tech and i want to leave most of the coding stuff behind me for a while.
 
 thank you! - anokhee
 
