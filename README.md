@@ -1,13 +1,3 @@
-### hello everyone 
-
-i've received several emails in the last few weeks, so i wanted to make a note here that **i will not be updating any of my generative art repos**. 
-
-please feel free to use the existing code however you like, but unfortunately i won't be able to help with anything. 
-
-thank you! - anokhee
-
-
-
 <!--
 **anokhee/anokhee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
